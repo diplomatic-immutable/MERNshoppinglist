@@ -17,11 +17,12 @@
   "author": "diplomatic-immutable",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "bcryptjs": "^2.4.3",
     "concurrently": "^4.1.0",
+    "config": "^3.1.0",
     "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.5.7",
-    "react-router": "^5.0.0",
     "redux-devtools-extension": "^2.13.8"
   },
   "devDependencies": {
